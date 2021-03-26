@@ -47,5 +47,9 @@ body {
 }
 
 #panacek {
+	top: 100px;
+	left: 100px;
+	width: 64px;
+	height: 70px;
 	z-index: 1;
 }
